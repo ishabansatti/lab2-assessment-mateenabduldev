@@ -21,18 +21,18 @@ char getCharValue() {
     return var_char;
 }
 
-int convertFloatToInt(float value) {
-    // convert value to int.
-    return value;
-}
+// int convertFloatToInt(float value) {
+//     // convert value to int.
+//     return value;
+// }
 
-/*
-Convert Fahrenheit to Celsius and store your answer in a variable celsius.
+// /*
+// Convert Fahrenheit to Celsius and store your answer in a variable celsius.
 
-Formula:
-    Celsius = (Fahrenheit - 32) * 5 / 9
-*/
-float fahrenheitToCelsius(float fahrenheit) {
-    //return celsius;
+// Formula:
+//     Celsius = (Fahrenheit - 32) * 5 / 9
+// */
+// float fahrenheitToCelsius(float fahrenheit) {
+//     //return celsius;
 
-}
+// }
